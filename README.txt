@@ -4,3 +4,4 @@ Opredelenno
 
 Vse propali...
 
+!!!
