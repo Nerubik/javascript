@@ -18,6 +18,9 @@ Other Style Guides
   - [CSS & Sass](https://github.com/airbnb/css)
   - [Ruby](https://github.com/airbnb/ruby)
 
+
+Zaraza, LUTIC!!!!
+Chtoto ne tak
 ## Table of Contents
 
   1. [Types](#types)
