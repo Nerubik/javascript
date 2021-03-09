@@ -19,8 +19,12 @@ Other Style Guides
   - [Ruby](https://github.com/airbnb/ruby)
 
 
+
 Zaraza, LUTIC!!!!
 Chtoto ne tak
+
+I Lutic propal
+
 ## Table of Contents
 
   1. [Types](#types)
